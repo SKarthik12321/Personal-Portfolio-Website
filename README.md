@@ -13,4 +13,4 @@ A responsive and modern personal portfolio website built using **HTML, CSS, and 
 
 - **HTML** – Structuring the content.  
 - **CSS** – Styling and layout design.  
-- **JavaScript** – Adding interactivity.  
+- **JavaScript** – Adding interactivity.
